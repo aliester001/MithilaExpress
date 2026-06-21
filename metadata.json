@@ -1,0 +1,6 @@
+{
+  "name": "Mithila Express",
+  "description": "Multi-role Food Delivery App representing Customers, Restaurant Dashboard, Delivery Partners, and Admin for Mahottari, Nepal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
